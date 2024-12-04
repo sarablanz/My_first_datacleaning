@@ -1,4 +1,4 @@
-My first procesing consistió en limpiar una base de datos de coches, preparándola para futuros análisis. Las principales tareas realizadas fueron el tratamiento de valores nulos, la codificación de variables categóricas mediante One Hot Encoding, la conversión de valores booleanos a numéricos, la normalización de datos con Min-Max Scaling y la eliminación de filas duplicadas. Este proceso dejó los datos listos para su posterior análisis y modelado."
+My first procesing consistió en limpiar una base de datos de coches, preparándola para futuros análisis. Fue una tarea asignada por la academia Nuclio Digital School-Barcelona, donde actualemente me estoy preparando con el master de cientifico de datos. Las principales tareas realizadas fueron el tratamiento de valores nulos, la codificación de variables categóricas mediante One Hot Encoding, la conversión de valores booleanos a numéricos, la normalización de datos con Min-Max Scaling y la eliminación de filas duplicadas. Este proceso dejó los datos listos para su posterior análisis y modelado."
 
   Columnas eliminadas 
 *asientos_traseros_plegables (70.02%) alto porcentaje de nulos elimino columna 
