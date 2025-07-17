@@ -1,7 +1,8 @@
-My First Data Cleaning
+**My First Data Cleaning**
+
 Este proyecto consiste en la limpieza y preparación de una base de datos de coches para análisis y modelado. La tarea fue asignada por Nuclio Digital School-Barcelona, donde actualmente curso el Máster en Ciencia de Datos.
 
-1. Objetivo del Proyecto
+*1. Objetivo del Proyecto*
 Preparar una base de datos de automóviles para futuros análisis, asegurando la calidad y consistencia de los datos mediante técnicas de limpieza, manejo de valores nulos, codificación y normalización.
 
 2. Principales tareas realizadas
